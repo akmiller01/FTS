@@ -1,0 +1,153 @@
+div#wrap {
+    width: 980px;
+    margin: 0 auto;
+}
+
+div#fltright001 {
+    width:30%;
+    height:30px;
+    right:-40px;
+}
+
+ul#FTStopnav {
+    padding-left:160px;
+    width:25%;
+}
+
+div.FTSbookmarkloc {
+ right:-220px;
+}
+
+.FTShome-s, .FTShome-n {
+    width:62px !important;
+}
+
+.FTSAppFund-n, .FTSAppFund-s {
+    width:129px !important;
+}
+
+.FTSCountries-n, .FTSCountries-s {
+    width:103px !important;
+}
+
+.FTSGblOvw-n, .FTSGblOvw-s {
+    width:146px !important;
+}
+
+.FTSCstSrch-n, .FTSCstSrch-s {
+    width:133px !important;
+}
+
+.FTSReport-n, .FTSReport-s {
+    width:103px !important;
+}
+
+.FTSAppDoc-n, .FTSAppDoc-s {
+    width:149px !important;
+}
+
+.FTSExmain00 {
+    width:967px;
+}
+
+.wid01 {
+    width:410px;
+}
+
+.oddrownew {
+    font-size: 14px !important;
+}
+
+.evenrownew {
+    font-size: 14px !important;
+}
+
+.EvenrowOddrowHover {
+    font-size: 14px !important;
+}
+
+.leftLinkTitle00 {
+    font-size: 14px !important;
+}
+
+ul#FTSExleftLink {
+    font-size: 12px !important;
+}
+
+.gentext {
+    font-size: 12px !important;
+}
+
+#AboutUsLink {
+    font-size: 14px !important;
+}
+
+#foot {
+    margin: 0 auto;
+    float:none !important;
+    width:977px;
+}
+
+#copyright {
+    margin: 5px auto;
+    float:none !important;
+}
+
+.FTSPgTitle, .FTStitle {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+ul#FTSExleftLink00 {
+    font-size: 12px !important;
+}
+
+td.pertage {
+    width:80px
+}
+
+table {
+    font-size: 12px !important;
+}
+
+a {
+    font-size: 12px !important;
+}
+
+.FTSExmain01 {
+    width:977px !important;
+}
+
+.sectiontitle {
+    font-size:14px !important;
+}
+
+.lbltextgen {
+    font-size:12px !important;
+}
+
+#ctl00_lblPageTitle {
+    padding-top:10px;
+}
+
+#tdLeftMenu {
+    width:205px;
+}
+
+.asia {
+    left:720px !important;
+    top: 230px !important;
+}
+
+.europe {
+    left:648px !important;
+    top: 196px !important;
+}
+
+.worldmap {
+    padding-left:80px;
+}
+
+.FTStitle {
+    color: #900 !important;
+}
